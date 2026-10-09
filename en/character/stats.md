@@ -10,20 +10,17 @@ In SimpleMMO, each character is described by three main stats: strength (str), d
 
 During combat, the two characters’ stats are compared in a series of calculations. The game then rolls for damage dealt based on the outcome of these calculations. Stats can be increased by levelling up, purchasing equipment, and having a profession with a stat bonus.
 
-### Levelling Up
+### Stat Points
+Stat Points can be acquired in 2 main ways.
 
-Player will receive 2 stat points for every level up. These can be applied to your character's stats at the Character page.
-
-### Equipment
-
-You can use [equipment][2] to increase your stats by a large amount. Equipment comes in different [rarities][3] and they all provide different stats.
+Player will receive 2 stat points for every level up. These can be applied to your character's stats at the Character page. You can use [equipment][2] to increase your stats by a large amount. Equipment comes in different [rarities][3] and they all provide different stats.
 
 ## Resetting Stats
 
 The player is able to reset the stats allocated by pointed gained from their levelling up. When this has been done, their player stats (excluding equipment and professions stat increase) is reset back to zero, and they are available to reallocate all of their stat points. This can be done through two ways:
 
 - Purchasing `Reset Skills` in the diamond store. This costs 15 diamonds at base value or less when there are discounts.
-- Using a `Tome of Resetting Skills`, dropped as a normal weapon or purchased through the player market.
+- Using a `Tome of Resetting Skills`, dropped as an Epic Tome or purchased through the player market.
 
 ## Crit/Special Attack (spATK)
 
